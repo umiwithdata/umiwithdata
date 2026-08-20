@@ -6,7 +6,7 @@ My work sits at the intersection of **consumer research, behavioral science, and
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 * Consumer Behavior
 * Behavioral Marketing
@@ -17,10 +17,11 @@ My work sits at the intersection of **consumer research, behavioral science, and
 * Machine Learning for Marketing
 * Market & Consumer Segmentation
 * Choice Modeling & Conjoint Analysis
+* Neuromarketing
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming & Data Analysis
 
