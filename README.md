@@ -44,7 +44,7 @@ My work sits at the intersection of **consumer research, behavioral science, and
 
 **Email:** [contact.umim@gmail.com](mailto:contact.umim@gmail.com)
 
-Currently exploring **Predoctoral Research Assistant opportunities** as I prepare to pursue a PhD, with research interests in **consumer behavior, behavioral marketing, quantitative methods, and marketing analytics**.
+Currently exploring **Predoctoral Research Assistant opportunities** as I prepare to pursue a PhD, with research interests in **consumer behavior, behavioral marketing, quant marketing, and marketing analytics**.
 ---
 
 Thank you for visiting my profile!
