@@ -12,6 +12,7 @@ My work sits at the intersection of **consumer research, behavioral science, and
 * Behavioral Marketing
 * Marketing Analytics
 * Quantitative Research Methods
+* Qualitative Research Methods
 * Consumer Decision-Making
 * Customer Analytics
 * Machine Learning for Marketing
