@@ -42,7 +42,7 @@ My work sits at the intersection of **consumer research, behavioral science, and
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Email:** [contact.umim@gmail.com](mailto:contact.umim@gmail.com)
 
