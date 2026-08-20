@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Umi 👋
 
-<!--
-**umiwithdata/umiwithdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Market Researcher and Consumer Insights professional** with 8+ years of experience in quantitative and qualitative research, consumer behavior, and data-driven business analysis.
 
-Here are some ideas to get you started:
+My work sits at the intersection of **consumer research, behavioral science, and data analytics**. I am particularly interested in understanding how people make decisions, how individual and contextual factors shape consumer behavior, and how quantitative methods can be used to generate actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+* Consumer Behavior
+* Behavioral Marketing
+* Marketing Analytics
+* Quantitative Research Methods
+* Consumer Decision-Making
+* Customer Analytics
+* Machine Learning for Marketing
+* Market & Consumer Segmentation
+* Choice Modeling & Conjoint Analysis
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data Analysis
+
+`Python` · `R` · `SQL` · `STATA` · `SPSS`
+
+### Research Methods
+
+`Quantitative Research` · `Qualitative Research` · `Survey Research` · `Conjoint Analysis` · `Segmentation` · `Consumer Research`
+
+### Analytics
+
+`Statistical Analysis` · `Machine Learning` · `Predictive Modeling` · `Data Visualization` · `Exploratory Data Analysis`
+
+### Tools
+
+`Power BI` · `Excel` · `Qualtrics` · `PowerPoint`· `Alchemer`
+
+---
+
+## 📫 Contact
+
+**Email:** [contact.umim@gmail.com](mailto:contact.umim@gmail.com)
+
+Currently exploring **Predoctoral Research Assistant opportunities** as I prepare to pursue a PhD, with research interests in **consumer behavior, behavioral marketing, quantitative methods, and marketing analytics**.
+---
+
+Thank you for visiting my profile!
